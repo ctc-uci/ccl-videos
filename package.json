@@ -1,0 +1,17 @@
+{
+    "name": "ccl-videos",
+    "version": "1.0.0",
+    "description": "A volunteer and inventory data tracker for Waymakers",
+    "scripts": {
+        "frontend-install": "cd ./ccl-videos-frontend && npm install",
+        "backend-install": "cd ./ccl-videos-backend && npm install",
+        "submodules-install": "concurrently \"npm run frontend-install\" \"npm run backend-install\"",
+        "postinstall": "npm run submodules-install",
+        "frontend": "npm run start --prefix ./ccl-videos-frontend",
+        "backend": "npm run start --prefix ./ccl-videos-backend",
+        "start": "concurrently \"npm run backend\" \"npm run frontend\""
+    },
+    "devDependencies": {
+        "concurrently": "^5.3.0"
+    }
+}
