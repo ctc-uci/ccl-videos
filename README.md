@@ -1,4 +1,4 @@
-# Child Creativity Lab - Waivers
+# Child Creativity Lab - Videos
 ![CCL Logo](https://user-images.githubusercontent.com/45449494/130186262-a0855101-be2f-4cf2-a9fd-2c7ea289b115.png)
 #### Child Creativity Lab aims to foster the next generation of critical thinkers, innovators, and leaders through hands-on creativity enhancing exploration. They incorporate creativity into STEM education, making it easier for children to understand and enjoy.
 
