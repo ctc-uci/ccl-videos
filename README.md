@@ -15,7 +15,10 @@
 
 🆙 We developed a video platform where administrators can upload videos and generate unique codes for each learning kit that is sent to a customer.
 
-[screenshots]
+![Videos Home](https://user-images.githubusercontent.com/45449494/130187870-01cdc48d-d843-46c6-a793-de015a7c18b9.png)
+![Videos Code Management](https://user-images.githubusercontent.com/45449494/130187874-d18a9105-9ada-42c6-bd98-19bd39ba4e69.png)
+![Videos Storage](https://user-images.githubusercontent.com/45449494/130187878-286947f9-4a65-4d03-9b2b-968979f948b9.png)
+
 
 
 **Tech Stack:**
